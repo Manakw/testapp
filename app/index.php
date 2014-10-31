@@ -200,7 +200,7 @@ $message = isset($_GET['message']) ? $_GET['message'] : NULL;
 			<ul>
 				<li>Saving credit card information with PayPal for later use.</li>
 				<li>Making payments using a saved credit card.</li>
-				<li>Making payments using PayPal.</li>
+				<li>Making payments using PayPal. Please Work</li>
 			</ul>
 			</div>
       </div>
